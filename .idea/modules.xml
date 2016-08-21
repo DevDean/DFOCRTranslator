@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/NewOCRTranslator.iml" filepath="$PROJECT_DIR$/NewOCRTranslator.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy_ocr_library/easy_ocr_library.iml" filepath="$PROJECT_DIR$/easy_ocr_library/easy_ocr_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tess-two/tess-two.iml" filepath="$PROJECT_DIR$/tess-two/tess-two.iml" />
     </modules>
   </component>
 </project>
